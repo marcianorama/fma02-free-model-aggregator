@@ -1,8 +1,12 @@
 # fma02 free-model aggregator
 
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/marcianorama/fma02-free-model-aggregator/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/marcianorama/fma02-free-model-aggregator/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
 One Node 22 server that stands in for a paid LLM API and answers every completion from
-OpenRouter's free models, dialled through the grader's gateway. Built for make.fun's
-`free-model-aggregator-02` bounty.
+OpenRouter's free models, dialled through the grader's gateway. Built for
+[make.fun's free-model-aggregator-02 bounty](https://make.fun/bounty/free-model-aggregator-02).
 
 ## What it does
 
